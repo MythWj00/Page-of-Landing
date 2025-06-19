@@ -1,12 +1,12 @@
 .high-header {
     display: flex;
     padding: 1rem;  
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 .top-button {
     display: flex;
     padding: 1rem;  
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 ul {
