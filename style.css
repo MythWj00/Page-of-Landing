@@ -1,4 +1,9 @@
-.header {
+.high-header {
+    display: flex;
+    padding: 1rem;  
+    justify-content: space-between;
+}
+.top-button {
     display: flex;
     padding: 1rem;  
     justify-content: space-between;
