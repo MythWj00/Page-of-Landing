@@ -6,11 +6,15 @@
 .top-button {
     display: flex;
     padding: 1rem;  
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
 ul {
     list-style: none;
     display: flex;
     gap: 1rem;
+}
+
+.hook {
+    display: flex;
 }
