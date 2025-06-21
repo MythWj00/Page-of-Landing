@@ -24,3 +24,11 @@ ul {
 .hook {
     display: flex;
 }
+
+.items {
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+    flex-wrap: wrap;
+}
