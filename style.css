@@ -3,11 +3,17 @@
     padding: 1rem;  
     justify-content: space-evenly;
 }
-.top-button {
+
+.upper-box {
     display: flex;
-    padding: 1rem;  
-    justify-content: center;
+    align-content: space-evenly;
+    justify-items: center;
+    justify-content: space-evenly;
 }
+.left-side {
+    margin-right: 17rem;
+}
+
 
 ul {
     list-style: none;
