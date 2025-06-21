@@ -32,3 +32,8 @@ ul {
     gap: 52px;
     flex-wrap: wrap;
 }
+.body {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
