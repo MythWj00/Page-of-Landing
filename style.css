@@ -38,3 +38,10 @@ ul {
     flex-direction: column;
     text-align: center;
 }
+img {
+    width: 200px;
+    height: 200px;
+}
+.item {
+    width: 200px;
+}
