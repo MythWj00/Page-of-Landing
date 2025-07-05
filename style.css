@@ -45,3 +45,7 @@ img {
 .item {
     width: 200px;
 }
+.lower-box {
+    display: flex;
+    justify-content: center;
+}
