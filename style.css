@@ -6,7 +6,6 @@
 
 .upper-box {
     display: flex;
-    align-content: space-evenly;
     justify-items: center;
     justify-content: space-evenly;
 }
