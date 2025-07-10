@@ -88,3 +88,8 @@ button,
 .quote-con {
     background-color: #E5E7EB;
 }
+.quote {
+    font-size: 36px;
+    font-style: light italic;
+    color: #1f2937;
+}
