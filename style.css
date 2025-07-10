@@ -1,6 +1,10 @@
 * {
     font-family: Roboto, 'Times New Roman';
 }
+.header,
+.footer {
+    background: #1f2937;
+}
 .high-header {
     display: flex;
     padding: 1rem;  
@@ -60,6 +64,5 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: gray;
     color: white;
 }
