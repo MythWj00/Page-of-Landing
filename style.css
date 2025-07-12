@@ -83,7 +83,8 @@ li,
     font-size: 18px;
     color: #E5E7EB;
 }
-.logo-text {
+.logo-text,
+.callto {
     font-size: 24px;
     color: #f9faf8;
     font-weight: bold;
