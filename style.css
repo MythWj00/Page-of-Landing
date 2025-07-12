@@ -57,6 +57,7 @@ img {
     display: flex;
     justify-content: center;
     gap: 10rem;
+    margin: 5rem 40rem;
 }
 
 .footer {
