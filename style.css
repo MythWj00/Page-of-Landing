@@ -78,7 +78,8 @@ img {
     font-weight: 900;
 }
 .subtext,
-li {
+li,
+.thatbutt {
     font-size: 18px;
     color: #E5E7EB;
 }
