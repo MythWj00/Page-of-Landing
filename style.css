@@ -116,3 +116,6 @@ button,
     font-weight: bolder;
     text-indent: 62rem;
 }
+button {
+    color: #E5E7EB;
+}
