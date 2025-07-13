@@ -118,4 +118,7 @@ button,
 }
 button {
     color: #E5E7EB;
+    padding: 5px 40px;
+    font-size: 20px;
+    font-weight: bolder;
 }
