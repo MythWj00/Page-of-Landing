@@ -103,6 +103,8 @@ button,
     font-size: 36px;
     font-style: light italic;
     color: #1f2937;
+    padding: 5rem 40rem;
+    text-align: justify;
 }
 .rando-info {
     font-size: 36px;
