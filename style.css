@@ -133,3 +133,7 @@ button {
 .lower-box {
     border-radius: 25px;
 }
+.top-img {
+    width: 600px;
+    height: 300px;
+}
