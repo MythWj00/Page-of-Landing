@@ -126,3 +126,10 @@ button {
 .Signup {
     border-color: #F9FAF8;
 }
+.image1,
+.image2,
+.image3,
+.image4,
+.lower-box {
+    border-radius: 25px;
+}
